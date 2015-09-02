@@ -1,0 +1,42 @@
+.oddcolor{
+    background: orange;
+    padding: 10px;
+}
+.evencolor{
+    background: skyblue;
+    padding: 10px;
+}
+
+.firstcolor{
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.lastcolor{
+    background: red;
+    color: white;
+    padding: 10px;
+}
+
+.nthcolor{
+    background: oldlace;
+    color: black;
+    padding: 10px;
+}
+
+.red{
+    background: red;
+    padding: 5px 10px;
+    color:white;
+}
+.orange{
+    background: yellow;
+    padding: 5px 10px;
+    color:black;
+}
+.green{
+    background: darkgreen;
+    padding: 5px 10px;
+    color:white;
+}
